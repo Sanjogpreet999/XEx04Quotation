@@ -73,7 +73,7 @@
             <div class="form-group">
                 <div class="col-sm-offset-1 col-sm-11">
                     <%-- message label goes here --%>
-                    <asp:Label ID="Lbl_send" runat="server" Text="" Font-Size="medium" Forecolor="Black"></asp:Label> 
+                    <asp:Label ID="Lbl_send" runat="server" Text="" Font-Size="medium" Forecolor="Black"></asp:Label> kive aa honey
                 </div>
             </div>
 
